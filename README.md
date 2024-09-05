@@ -6,7 +6,7 @@
 
 
 <div align=center>
-  <h3>My log</h3>
+  <h2>My log</h2>
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l-suyeon-l&show_icons=true&theme=dracula">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-suyeon-l&layout=compact&theme=dracula">
@@ -17,7 +17,7 @@
 <br/><br/><br/><br/><br/>
 
 <div align=center style=background-color=000000;>
-  <h3>💻Tech Stacks💻</h3>
+  <h2>💻Tech Stacks💻</h2>
   <div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -28,9 +28,9 @@
   </div>
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
-<h3 align=center>🔧Tools🔧</h3>
+<h2 align=center>🔧Tools🔧</h2>
 <div align=center>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -42,20 +42,30 @@
   <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
-<h3 align=center>📆Planning to..📆</h3>
 <div align=center>
+  <h2>📆Planning to..📆</h2>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <br/><p style="fontsize:10%">백엔드도 한 번..ㅎㅎ</p>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <br/><h6 width="10%" align="right">백엔드도 한 번..ㅎㅎ</h6>
 </div>
 
 
 
+<br/><br/><br/><br/><br/>
+
+<h2 align=center>🏆Awards🏆</h2>
+
+
+```
+  ✨ 2024 Glow Hackathon 최우수상 수상 : 프론트엔드
+```
+
+  
 
 <!--
 **l-suyeon-l/l-suyeon-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
