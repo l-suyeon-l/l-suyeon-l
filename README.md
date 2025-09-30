@@ -64,7 +64,9 @@
 ```
   ✨ 2024 Glow Hackathon 최우수상 수상 : 프론트엔드
 ```
-
+```
+  ✨ 2024 GDGoC KNU Vision Challengethon 아이디어상 수상 : 프론트엔드
+```
   
 
 <!--
